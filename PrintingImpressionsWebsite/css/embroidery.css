@@ -1,0 +1,18 @@
+/* ============================================================
+   embroidery.css — Embroidery Page Styles
+   ============================================================ */
+
+/* ── Two-Column Layout ──────────────────────────────────────── */
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: start;
+}
+.two-col--wide { grid-template-columns: 3fr 2fr; }
+
+/* ── Responsive ─────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .two-col,
+  .two-col--wide { grid-template-columns: 1fr; }
+}
