@@ -1,0 +1,256 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Custom Embroidery — Impressions Printing Inc.</title>
+  <meta name="description" content="Custom embroidery services in Jasper, IN for businesses, teams, and individuals. Caps, jackets, polos, workwear, bags, and more." />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/embroidery.css" />
+</head>
+<body>
+
+  <!-- ── Navigation ──────────────────────────────────────── -->
+  <nav class="nav" role="navigation" aria-label="Main navigation">
+    <div class="container nav__inner">
+      <a href="index.html" class="nav__brand">
+        <span class="nav__brand-name">Impressions <span>Printing</span></span>
+        <span class="nav__brand-tagline">Jasper, Indiana</span>
+      </a>
+      <ul class="nav__links" role="list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="digital-printing.html">Digital Printing</a></li>
+        <li><a href="copies-scans-fax.html">Copies &amp; Scans</a></li>
+        <li><a href="invitations.html">Invitations</a></li>
+        <li><a href="embroidery.html" class="active">Embroidery</a></li>
+        <li><a href="screen-printing.html">Screen Printing</a></li>
+        <li><a href="contact.html" class="nav__cta">Contact Us</a></li>
+      </ul>
+      <button class="nav__hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+  <div class="nav__mobile" id="mobileNav">
+    <a href="index.html">Home</a>
+    <a href="digital-printing.html">Digital Printing</a>
+    <a href="copies-scans-fax.html">Copies &amp; Scans</a>
+    <a href="invitations.html">Invitations</a>
+    <a href="embroidery.html" class="active">Embroidery</a>
+    <a href="screen-printing.html">Screen Printing</a>
+    <a href="contact.html">Contact Us</a>
+  </div>
+
+  <!-- ── Page Hero ───────────────────────────────────────── -->
+  <section class="page-hero">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html">Home</a>
+        <span>›</span>
+        <span>Custom Embroidery</span>
+      </nav>
+      <h1>Custom Embroidery</h1>
+      <p class="page-hero__sub">Add a professional, personalized touch to apparel for your business, team, or any occasion — any order size.</p>
+    </div>
+  </section>
+
+  <!-- ── Intro ───────────────────────────────────────────── -->
+  <section class="section">
+    <div class="container">
+      <div class="feature-row">
+        <div class="feature-row__image fade-in">
+          <div class="img-placeholder" style="height:100%;">
+            <svg width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/></svg>
+            <span>Embroidery Samples / Machine Photo</span>
+          </div>
+        </div>
+        <div class="feature-row__content fade-in">
+          <span class="eyebrow">Custom Embroidery</span>
+          <h2>Custom Embroidery for All Your Needs</h2>
+          <p>Are you excited about adding a personal touch to your clothing? Impressions Printing Inc. in Jasper, IN, can handle all your embroidery needs, from large orders for company promotions to small personalized items. You'll love the unique touch that custom embroidery adds to your apparel.</p>
+          <ul class="icon-list">
+            <li>
+              <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
+              Large and small orders welcome
+            </li>
+            <li>
+              <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
+              Perfect for businesses, teams &amp; events
+            </li>
+            <li>
+              <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
+              Personalized items &amp; corporate promotions
+            </li>
+            <li>
+              <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
+              Wide variety of garments and accessories
+            </li>
+          </ul>
+          <a href="contact.html" class="btn btn-primary" style="margin-top:8px;">Get a Quote</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── What We Embroider ───────────────────────────────── -->
+  <section class="section section--light">
+    <div class="container">
+      <div class="section-header fade-in">
+        <span class="eyebrow">Embroidery Options</span>
+        <h2>What Can We Embroider?</h2>
+        <div class="divider"></div>
+        <p>Are you curious about what items we can embroider? We offer:</p>
+      </div>
+
+      <div class="tag-list fade-in" style="justify-content: center; margin-bottom: 16px;">
+        <span class="tag"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg> Caps &amp; Knit Hats</span>
+        <span class="tag"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg> Jackets &amp; Warm-Ups</span>
+        <span class="tag"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg> Polos &amp; Dress Shirts</span>
+        <span class="tag"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg> Workwear</span>
+        <span class="tag"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg> Sweatshirts</span>
+        <span class="tag"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg> Sport Bags &amp; Totes</span>
+        <span class="tag"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg> Sweaters &amp; Fleece</span>
+        <span class="tag"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg> Blankets &amp; Towels</span>
+      </div>
+
+      <p class="fade-in" style="text-align:center; font-size:1rem; color:var(--text-secondary); margin-bottom:48px;">You'll be amazed at how versatile our embroidery services are!</p>
+
+      <div class="services-grid">
+        <div class="service-card fade-in">
+          <div class="service-card__image">
+            <div class="img-placeholder">
+              <svg width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/></svg>
+              <span>Caps &amp; Hats Photo</span>
+            </div>
+          </div>
+          <div class="service-card__body">
+            <h3>Caps &amp; Headwear</h3>
+            <p>Structured caps, beanies, knit hats — a custom embroidered logo on headwear makes a lasting impression.</p>
+          </div>
+        </div>
+
+        <div class="service-card fade-in">
+          <div class="service-card__image">
+            <div class="img-placeholder">
+              <svg width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/></svg>
+              <span>Polos / Shirts Photo</span>
+            </div>
+          </div>
+          <div class="service-card__body">
+            <h3>Shirts &amp; Polos</h3>
+            <p>Professional embroidered polos and dress shirts are perfect for uniforms, corporate wear, and team apparel.</p>
+          </div>
+        </div>
+
+        <div class="service-card fade-in">
+          <div class="service-card__image">
+            <div class="img-placeholder">
+              <svg width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+              <span>Jackets / Workwear Photo</span>
+            </div>
+          </div>
+          <div class="service-card__body">
+            <h3>Jackets &amp; Workwear</h3>
+            <p>From fleece jackets to heavy-duty work gear — embroidered workwear looks professional and builds team pride.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Team / Business Uses ───────────────────────────── -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header fade-in">
+        <span class="eyebrow">Who We Serve</span>
+        <h2>Perfect for Teams, Businesses &amp; Events</h2>
+        <div class="divider"></div>
+      </div>
+
+      <div class="two-col fade-in">
+        <div>
+          <h3>Your Team's Embroidery, Your Team's Style</h3>
+          <p>Want to showcase your team's spirit with custom embroidery? Imagine your team wearing custom-designed clothing that perfectly represents your style. Our embroidery services make it possible, giving your team a unique look that stands out.</p>
+          <h3 style="margin-top: 24px;">Elevate Your Business Image</h3>
+          <p>Are you looking for a polished, professional look for your employees? Custom embroidered uniforms and branded apparel make a strong first impression on customers and set your business apart. From polos and dress shirts to jackets and hats, we'll put your logo on the pieces that represent your brand best.</p>
+        </div>
+        <div>
+          <h3>Stand Out at Your Next Event</h3>
+          <p>Planning a trade show, corporate outing, fundraiser, or community event? Custom embroidered apparel keeps your group looking cohesive and professional. Branded shirts, caps, or bags make excellent giveaways and leave a lasting impression long after the event is over.</p>
+          <h3 style="margin-top: 24px;">Perfect for Every Occasion</h3>
+          <p>Need something special for an event? Custom embroidery, from corporate gatherings to large athletic events, adds the perfect touch to any occasion. You'll stand out from the crowd with professional embroidery that makes your logo shine. Let Impressions Printing Inc., the best embroidery company in Jasper, IN, bring your vision to life! Contact us today at (812) 634-2574!</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── CTA Banner ──────────────────────────────────────── -->
+  <section class="cta-banner">
+    <div class="container">
+      <h2>Ready to Add Your Logo?</h2>
+      <p>Contact Impressions Printing Inc. today — let us bring your vision to life with professional custom embroidery in Jasper, IN.</p>
+      <div class="cta-banner__actions">
+        <a href="contact.html" class="btn btn-primary">Get a Quote</a>
+        <a href="tel:8126342574" class="btn btn-outline">Call (812) 634-2574</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Footer ──────────────────────────────────────────── -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div>
+          <div class="footer__brand-name">Impressions <span>Printing</span> Inc.</div>
+          <div class="footer__brand-tagline">Full-Service Printing · Jasper, IN</div>
+          <p class="footer__about">We're a full-service printing company in Jasper, Indiana, bringing your ideas to life — from digital prints to custom embroidery and everything in between.</p>
+          <div class="footer__social">
+            <a href="https://www.facebook.com/jasperprinter" target="_blank" rel="noopener" aria-label="Find us on Facebook">
+              <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+            </a>
+          </div>
+        </div>
+        <div class="footer__col">
+          <h5>Services</h5>
+          <ul class="footer__links">
+            <li><a href="digital-printing.html">Digital Printing</a></li>
+            <li><a href="copies-scans-fax.html">Copies &amp; Scans</a></li>
+            <li><a href="invitations.html">Custom Invitations</a></li>
+            <li><a href="embroidery.html">Embroidery</a></li>
+            <li><a href="screen-printing.html">Screen Printing</a></li>
+          </ul>
+        </div>
+        <div class="footer__col">
+          <h5>Company</h5>
+          <ul class="footer__links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="https://www.facebook.com/jasperprinter" target="_blank" rel="noopener">Facebook</a></li>
+          </ul>
+        </div>
+        <div class="footer__col">
+          <h5>Contact</h5>
+          <div class="footer__contact-item">
+            <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 10.8 19.79 19.79 0 01-.01 2.18 2 2 0 012 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92v2z"/></svg>
+            <a href="tel:8126342574">(812) 634-2574</a>
+          </div>
+          <div class="footer__contact-item">
+            <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            <a href="mailto:jasperprinter@mail.com">jasperprinter@mail.com</a>
+          </div>
+          <div class="footer__contact-item">
+            <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            <span>Jasper, Indiana</span>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <p>&copy; 2026 Impressions Printing Inc. All rights reserved.</p>
+        <p>Located in Jasper, IN &nbsp;·&nbsp; <a href="tel:8126342574" style="color: var(--accent)">(812) 634-2574</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
