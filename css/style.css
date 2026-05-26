@@ -6,11 +6,11 @@
 
 /* ── Variables ─────────────────────────────────────────────── */
 :root {
-  --primary:        #1C3154;
-  --primary-hover:  #243D68;
-  --accent:         #C8922A;
-  --accent-hover:   #DDA535;
-  --dark:           #0D1B2E;
+  --primary:        #0259A9;
+  --primary-hover:  #1A6DBF;
+  --accent:         #E38132;
+  --accent-hover:   #F0924A;
+  --dark:           #013D7A;
   --text:           #2C2C3E;
   --text-secondary: #5A5A72;
   --text-light:     #8A8AA0;
